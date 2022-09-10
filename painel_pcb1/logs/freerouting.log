@@ -1,0 +1,26 @@
+2022-09-10 00:24:20.105 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2022-09-10 00:24:20.236 [main] TRACE Method 'MainApplication.main()' was performed in 0.43 seconds.
+2022-09-10 00:25:49.555 [AWT-EventQueue-0] INFO  Opening 'painel_pcb1.dsn'...
+2022-09-10 00:25:50.108 [AWT-EventQueue-0] INFO  Opening 'painel_pcb1.rules'...
+2022-09-10 00:28:02.324 [Thread-0] INFO  Starting auto-routing...
+2022-09-10 00:28:34.976 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #10 on board 'b22973c3000da6019d8f51906f73344e' making 613 changes' was performed in 32.55 seconds.
+2022-09-10 00:28:35.814 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #11 on board '9bc4f1e051303d10c57492db75cd4e19' making 36 changes' was performed in 0.78 seconds.
+2022-09-10 00:28:35.905 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #12 on board '235eab4d3e207f54e2a3085e2f087e03' making 0 changes' was performed in 0.03 seconds.
+2022-09-10 00:28:35.906 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-autorouting' was performed in 33.58 seconds.
+2022-09-10 00:28:35.907 [Thread-0] INFO  Auto-routing was completed in 33.58 seconds.
+2022-09-10 00:28:35.907 [Thread-0] INFO  Starting route optimization on 7 threads...
+2022-09-10 00:28:55.589 [Thread-2] WARN  OptViaAlgo.opt_via_location: move via failed
+2022-09-10 00:30:34.184 [Thread-2] WARN  OptViaAlgo.opt_via_location: move via failed
+2022-09-10 00:32:43.338 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #1 with 0 items, 130 vias and 9,066,439.62 trace length running on 7 threads.' was performed in 4 minute(s) 7.42 seconds.
+2022-09-10 00:34:01.674 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #2 with 278 items, 96 vias and 8,686,413.10 trace length running on 7 threads.' was performed in 1 minute(s) 18.33 seconds.
+2022-09-10 00:34:58.023 [Thread-20] WARN  OptViaAlgo.opt_via_location: move via failed
+2022-09-10 00:35:47.446 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #3 with 251 items, 71 vias and 8,405,494.34 trace length running on 7 threads.' was performed in 1 minute(s) 45.76 seconds.
+2022-09-10 00:37:12.711 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #4 with 248 items, 58 vias and 8,324,653.08 trace length running on 7 threads.' was performed in 1 minute(s) 25.26 seconds.
+2022-09-10 00:38:41.914 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #5 with 245 items, 45 vias and 8,264,063.74 trace length running on 7 threads.' was performed in 1 minute(s) 29.19 seconds.
+2022-09-10 00:39:39.987 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #6 with 243 items, 38 vias and 8,243,305.75 trace length running on 7 threads.' was performed in 58.07 seconds.
+2022-09-10 00:40:41.340 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #7 with 235 items, 36 vias and 8,187,221.06 trace length running on 7 threads.' was performed in 1 minute(s) 1.34 seconds.
+2022-09-10 00:40:41.341 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-routeoptimization' was performed in 12 minute(s) 5.43 seconds.
+2022-09-10 00:40:41.342 [Thread-0] INFO  Route optimization was completed in 12 minute(s) 5.43 seconds and it improved the design by ~54.86%.
+2022-09-10 00:40:41.438 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()' was performed in 12 minute(s) 39.11 seconds.
+2022-09-10 00:45:24.860 [AWT-EventQueue-0] INFO  Saving 'painel_pcb1.ses'...
+2022-09-10 00:45:31.091 [AWT-EventQueue-0] INFO  Saving 'painel_pcb1.rules'...

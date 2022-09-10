@@ -365,7 +365,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "painel_pcb1.dsn",
       "step": "",
       "vrml": ""
     },
